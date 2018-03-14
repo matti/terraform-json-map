@@ -1,0 +1,13 @@
+{
+  "string": "hello",
+  "number": 3,
+  "boolean": true,
+  "array": [
+    1,
+    2,
+    3
+  ],
+  "nested": {
+    "string": "nested hello"
+  }
+}
